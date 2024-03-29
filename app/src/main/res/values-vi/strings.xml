@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguage1</string>
+    <string name="Message">Đa ngôn ngữ</string>
+    <string name="show_message">Đăng kí</string>
+    <string name="show">Tên</string>
+    <string name="text_show">Tài khoản</string>
+    <string name="text_show_message">Mật khẩu</string>
+    <string name="btn_text">Xác nhận</string>
+    <string name="btn_show_message">Thông tin</string>
+
+</resources>

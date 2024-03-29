@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MultiLanguage1</string>
+    <string name="Message">Multi Language</string>
+    <string name="show_message">Register</string>
+    <string name="show">Name</string>
+    <string name="text_show">Acount</string>
+    <string name="text_show_message">Password</string>
+    <string name="btn_text">Confirm</string>
+    <string name="btn_show_message">Information</string>
+
+</resources>
